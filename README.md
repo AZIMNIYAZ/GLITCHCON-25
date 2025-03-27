@@ -20,4 +20,4 @@ Student Life & Facilities: An overview of campus facilities, clubs, and extracur
 Testimonials & Success Stories: Showcasing student achievements and alumni success.
 Mobile Responsiveness: The site must be mobile-friendly for easy access.
 
-link: https://app-01jqanv1-business-owner-tiram-ai.vercel.app/campus-life.html#overview
+link: https://dev-vit-biz-uni.tiram.app/index.html
